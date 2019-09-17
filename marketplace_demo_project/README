@@ -1,0 +1,3 @@
+This project is an imitation of an online marketplace deployed on a blockchain. One node deploys the contract and than there can be a seller and various buyers. It aims to provide a frontend where seller can add products and buyers can purchase it. All the transactions are recorded on the blockchain making it a decentralized shopping market!
+
+This project was made using a YouTube code along tutorial by "DApp University" and all the credits are to be given to the channel. I had made this project to get used to the process of making DApps and understand different components of blockchain development. Also, I haven't wasted time in building the React frontend because I am already familiar with it. Instead, I started building my own projects with different concepts!
